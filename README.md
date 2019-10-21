@@ -14,3 +14,4 @@ Half the sounds that had been discussed were delivered and after that I started 
 Then, I used all these sound files to create a supporting soundscape to the games mood. For this I used procedurally generating sound queues that guided the player along their way through the environment, used one-shot sound effects to furher outline the games environemnt and audio feedback for the player depending on their in-game situation.
 
 
+Project Pages: [Escape](https://mahara.dkit.ie/view/view.php?t=LEvSHVpT6IMPK1XQ9x0F "Escape Project Page") | [Youtube Trailer](https://youtu.be/tXQ--PJhPRw "Escape Youtube Trailer")
